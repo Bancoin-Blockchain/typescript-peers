@@ -1,5 +1,5 @@
 {
-	"name": "bancoin-peers",
+	"name": "bancoin-peersi",
 	"version": "0.2.1",
 	"description": "A simple TypeScript peer discovery client for the Bancoin Blockchain.",
 	"homepage": "https://github.com/Bancoin-Blockchain/typescript-peers",
