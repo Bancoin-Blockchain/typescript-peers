@@ -1,1 +1,1 @@
-# typescript-peers
+# bancoin-peers
